@@ -1,0 +1,1 @@
+read chapter 4 and 5 of amd's programmer manual
